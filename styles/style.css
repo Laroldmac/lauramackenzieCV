@@ -1,0 +1,51 @@
+*{
+	text-align: justify;
+	//width: 1000px;
+}
+p{
+	color:rgb(92, 198, 227);
+	font-family:Georgia;
+	word-wrap: break-word;
+}
+body{
+	background:antiquewhite;
+	align-content:center;
+	color:teal;
+	font-family:Tahoma;
+	width: 1000px;
+}
+h3{
+	color:rgb(92, 198, 227)
+}
+h1 {
+	text-shadow: 1px 1px;
+}
+span {
+	text-decoration: underline;
+	font-weight: bold;
+}
+ul {
+	list-style-type: circle;
+}
+div{
+    background-color: aliceblue;
+    float: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(7, 84, 152);
+	width: 250px;
+    height: 175px;
+    margin: 5px;
+}
+.container{
+    background-color: rgb(219, 169, 104);
+    width: 100%;
+    height: 60px;
+    margin: 2px;
+	text-align: center;
+}
+.uno{
+	width: 250px;
+    height: 175px;
+    margin: 5px;
+	text-align: left;
+}
